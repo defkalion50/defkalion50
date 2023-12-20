@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @defkalion50
 - 👀 I’m interested in game development and artificial intelligence
-- 🌱 I’m currently learning computer science and artificial intelligence through cs50ai while studying film and extended realities
+- 🌱 I’m studying film and extended realities at Aristotle University of Thessaloniki
 - 💞️ I’m looking to collaborate on xr films and video games
 - 📫 How to reach me deucalionpapadopoulos@gmail.com
 
